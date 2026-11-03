@@ -44,21 +44,18 @@ public class Ejercicio09 {
             System.out.println("No cumplió con el minimo de asistencias, por lo cual no fue evaluado: ");
             System.out.println("El estado del estudiante es: "+ estadoEst);
             
-        } 
-            
-        
-        
-        
-            
-        }                                                       
-    
+        }     
+        }                                                         
 }
 
 /***
  * EVIDENCIA DEL RUN:
-run:
-Ingrese el costo mensual de cada aplicaci�n: 5,99 7,99 9,99 6,99
-Ingrese su edad: 23
-El precio total a pagar mensualmente es: 24.768
-BUILD SUCCESSFUL (total time: 48 seconds)
+Ingresar el porcentaje de asistencia del estudiante: 
+100
+Ingrese la calificaci�n de la evalucaci�n continua del estudiante: 
+2
+Ingrese la calificaci�n del ex�men final del estudiante: 
+8
+La calificaci�n final del estudiante es: 5.0
+El estado del estudiante es: Supletorio
  */
